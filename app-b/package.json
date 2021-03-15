@@ -1,0 +1,5 @@
+{
+  "name": "app-b",
+  "private": "true",
+  "main": "dist/index.js"
+}
